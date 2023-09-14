@@ -1,0 +1,32 @@
+header, main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.cards-container{
+    display: flex;
+    overflow-x: scroll;
+    border: 10px solid salmon;
+}
+
+section{
+    position: relative;
+}
+
+#blur-effect{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    backdrop-filter: blur(10px);
+    height: 100%
+}
+
+.card{
+    height: 500px;
+    flex-basis: 33%;
+    background-color: red;
+    margin: 0 2rem;
+    flex-shrink: 0;
+}

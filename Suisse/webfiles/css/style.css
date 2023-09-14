@@ -1,0 +1,161 @@
+/* DEBUT HEADER */
+#icone{
+    height: 40px;
+    width: 55px;
+    }
+    header nav ul li:hover{
+    text-decoration: underline;
+    }
+    .liste{
+      scroll-behavior: smooth;
+    }
+    header nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    padding: 0;
+    max-width: 1920px;
+    margin: 0;
+    }
+    .liste{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    }
+    header nav ul{
+    display: flex;
+    align-items: center;
+    }
+    header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    max-width: 1200px;
+    }
+    header{
+    background: rgba(27, 36, 48, 1);
+    }
+    header nav a{
+    display: block;
+    padding: 2.563rem 1rem;
+    }
+    header img{
+    width: 100%;
+    }
+    
+/* FIN HEADER */
+
+
+/* DEBUT MAIN */
+main{
+    font-family: sans-serif;
+    max-width: 1350px;
+    margin: auto;
+    padding: 0 1rem;
+}
+
+main h1{
+    margin: 4rem 0;
+}
+
+main .container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border-top: solid 1px #D5DBDB;
+    border-left: solid 1px #D5DBDB;
+}
+
+main .card{
+    padding: 1.5rem;
+    border-right: solid 1px #D5DBDB;
+    border-bottom: solid 1px #D5DBDB;
+}
+
+main .card img{
+    margin: 2rem 0;
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    transition: 0.15;
+}
+
+.card p.info{
+    width: fit-content;
+    color: rgb(255, 255, 255);
+    background: rgb(204, 12, 57);
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.card p.product{
+    font-size: 1.1rem;
+}
+
+/* FIN MAIN */
+/* DEBUT FOOTER */
+.footer {
+    margin-top: 5rem;
+    background: #060c21;
+    color: #666873;
+    border: 5px double #2d11b5;
+    border-radius: 23px;
+    box-shadow: 0 0 .2rem #fff,
+    0 0 .2rem #fff,
+    0 0 2rem #130f42,
+    0 0 0.8rem #08073e,
+    0 0 2.8rem #101451,
+    inset 0 0 1.3rem #070339;
+}
+.footer__container {
+    max-width: 116rem;
+    margin: auto;
+    padding: 0 1.5rem;
+}
+.botboutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 1rem 7rem;
+}
+#bouttons {
+    display: flex;
+}
+
+.footer__top {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    row-gap: 2rem;
+}
+.footer__title {
+    font-size: 1.8rem;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.icone {
+    height: 100px;
+    width: 100px;
+}
+.footer__divider {
+    margin-block: 2.5rem;
+    border: none;
+    border-top: 1px solid rgba(252, 255, 255, .1);
+}
+.footer__bottom {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.footer_sociaux .footer__list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+/* DEBUT FOOTER */

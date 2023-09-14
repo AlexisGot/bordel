@@ -1,0 +1,55 @@
+Users:
+
+Sign up (Model)
+Sign up (Controller)
+
+----------------------------------------------------
+
+Log in (Model)
+Log in (Controller)
+
+----------------------------------------------------
+
+updateUser (Model)
+updateUser (Controller)
+
+----------------------------------------------------
+
+deleteUser (Model)
+deleteUser (Controller)
+
+
+Messages:
+
+showAllMessage (Controller)
+getAllMessage (Model)
+
+----------------------------------------------------
+
+sendMessage (Controller)
+insertMessage (Model)
+
+----------------------------------------------------
+
+deleteMessage (Controller)
+deleteMessage (Model)
+
+Channels:
+
+createChannel (Controller)
+createChannel (Model)
+
+---------------------------------------------------
+
+updateChannel (Controller)
+updateChannel (Model)
+
+---------------------------------------------------
+
+deleteChannel (Controller)
+deleteChannel (Model)
+
+--------------------------------------------------
+
+readChannel (Model)
+readChannel (Controller)

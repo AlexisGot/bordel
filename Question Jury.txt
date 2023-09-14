@@ -1,0 +1,24 @@
+- Quelle instruction faut il écrire dans un document pour rendre la page adaptative a toute écran ?
+
+-Quel est l'avantage du mobile first ?
+
+-Commment cibler un élément bouton en js en sachant qu'il posséde un id "Toto" ?
+
+-Selectionner tout les boutons d'une page web en js ?
+
+-Gérer chaque bouton indépendament ?
+
+-Définnisez ce qu'est une entité ?
+
+-Pars qu'elle norme standardise JavaScript ?
+
+-Que signifie JSON ?
+
+-Recupere l'ensemble des éléments de la table Clients mais limité qu'a trois reponse ?
+SELECT * FROM Clients LIMIT 3;
+
+-Framework Front End ?
+
+-Framework Back End ?
+
+

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire de Pré-remplissage de carte</title>
+    <meta name="description" content="">
+</head>
+<body>
+    <header>
+
+    </header>
+    <main>
+        <form action="./webfiles/php/phpcarte.php" method="POST" enctype="multipart/form-data">
+            <div>
+                <label for="user-files">Votre fichier image sur la personne:</label>
+                <input type="file" name="file" id="user-files">
+            </div>
+            <div>
+                <label for="user-firstname">Le prénom de la personne:</label>
+                <input type="text" name="firstName" placeholder="ex: Robert" id="user-firstname" required>
+            </div>
+            <div>
+                <label for="user-lastname">Le nom de la personne:</label>
+                <input type="text" name="lastName" placeholder="ex: Downey" id="user-lastname" required>
+            </div>
+            <div>
+                <label for="urlT"></label>
+                <input type="url" name="urlTwitter" id="urlT" placeholder="https://twitter.com/exemple" pattern="https://.*" required>
+            </div>
+            <div>
+                <label for="urlL"></label>
+                <input type="url" name="urlLinkedin" id="urlL" placeholder="https://www.linkedin.com/in" pattern="https://.*" required>
+            </div>
+            <div>
+                <label for="urlF"></label>
+                <input type="url" name="urlFacebook" id="urlF" placeholder="https://fr-fr.facebook.com/" pattern="https://.*" required>
+            </div>
+            <div>
+                <button type="submit">Envoyer le formulaire</button>
+            </div>
+        </form>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+MVC, comment le construire ?
+
+	La première étape lorsqu'on veux crée un projet informatique professionnel c'est de définir une arborescence adéquate.
+Dans notre cas, pour le MVC on vas crée un ensemeble de sous réperetoire qu'on pour vocation de segmenté les couches Front et Back End.
+Dans notre cas, Core à pour vocation de contenir l'ensemble du Back End tandis que Public l'ensemble du Front End.
+
+
+La première chose à faire quand on reprends un projet qui n'est pas MVC, on fait l'arborescence et ensuite on isole bien les parties de fichiers dans les bons fichiers (Models dans Models/ Views dans Views/ Controller dans Controller.

@@ -1,0 +1,15 @@
+{
+  "name": "retromemoriesbasetheme",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "index.js",
+  "scripts": {
+    "sass -v" : "sass --version",
+    "sass -c" : "sass -w ./public/webfiles/css/scss/:./public/webfiles/css/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "1.63.6"
+  }
+}

@@ -1,0 +1,232 @@
+@import "header.scss", "variableSCSS.scss", "footer.scss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500&display=swap");
+
+@font-face {
+    font-family: "Retron2000";
+    src: url("./Retron2000.ttf") format("truetype");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 18px;
+}
+
+body {
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Retron2000';
+        letter-spacing: 2px;
+    }
+
+
+    h1 {
+        font-size: 3rem;
+        padding: 5rem 0;
+        text-transform: uppercase;
+    }
+
+    h2 {
+        font-size: 2rem;
+        padding: 3.55rem 0;
+    }
+
+    h3 {
+        font-size: 1.55rem;
+        padding: 2rem 0;
+    }
+
+    p {
+        font-size: 1rem;
+        font-family: 'Roboto Mono';
+        letter-spacing: 2px;
+    }
+
+    .blueColor {
+        color: $blue;
+    }
+
+    .beigeColor {
+        color: $beige;
+    }
+
+    .white{
+        color:white;
+    }
+}
+
+main {
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Retron2000';
+        letter-spacing: 2px;
+        color: $blue;
+    }
+
+    .imgfirstSection {
+        width: 100%;
+        height: 700px;
+        object-fit: cover;
+        background-color: $test;
+    }
+
+    .button {
+        background-color: $yellow;
+        padding: 0.55rem 2.22rem;
+        border-radius: $buttonRadius;
+        border-style: none;
+        box-shadow: 0px 4px 4px 0px #686868;
+
+        .paragButton {
+            color: $brown;
+            padding-bottom: 0;
+        }
+    }
+
+    .firstSection {
+        position: relative;
+
+        .contentFirstSection {
+            width: 40%;
+            min-width: 700px;
+            height: 700px;
+            background-color: #d6cbc197;
+            padding: 0 2rem 0 2rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 0;
+            right: 0;
+
+            button {
+                margin: 5rem 0 0 0;
+            }
+        }
+
+    }
+
+    #contentWebSite {
+        max-width: 1920px;
+        margin: auto;
+
+        .secondSection {
+            margin: 0 2rem;
+
+            .firstPartSecondSection {
+                p {
+                    margin-bottom: 5rem;
+                }
+            }
+
+            .imgSecondSection {
+                width: 70%;
+                min-width: 600px;
+                border-radius: $radius;
+                object-fit: cover;
+                background-color: $test;
+            }
+
+            .secondPartSecondSection {
+                display: flex;
+                height: 710px;
+
+                .contentSecondParag {
+
+                    background-color: $blue;
+                    margin-left: 2rem;
+                    padding: 0 2rem 2rem 2rem;
+                    border-radius: 8px;
+                    max-width: 545px;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+
+                    h2 {
+                        text-align: center;
+                    }
+
+                    .parag {
+                        margin: 1rem 0 5rem 0;
+                    }
+                }
+            }
+        }
+
+        .thirdSection {
+            margin: $nextSection;
+
+            h2 {
+                text-align: center;
+            }
+
+            .sectionCard {
+                display: flex;
+                max-width: 1920px;
+                justify-content: center;
+                flex-wrap: wrap;
+                margin: auto;
+
+                .imgRond {
+                    display: flex;
+                    justify-content: center;
+                    width: 180px;
+                    height: 180px;
+                    border-radius: 100px;
+                    background: $test;
+                }
+
+                .card {
+                    width: 33%;
+                    box-sizing: border-box;
+                    padding: 1rem 0 1rem 0;
+                    margin-bottom: 5rem;
+
+                    .img {
+                        display: flex;
+                        justify-content: center;
+                    }
+
+                    .textCard {
+                        width: 80%;
+                        margin: auto;
+                        text-align: center;
+                        box-sizing: border-box;
+                        display: flex;
+                        flex-direction: column;
+
+                        p {
+                            text-align: justify;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    main {
+        #contentWebSite {
+            .thirdSection {
+                .sectionCard {
+                    justify-content: space-around;
+
+                    .card {
+                        width: 50%;
+                        padding: 0;
+                    }
+                }
+            }
+        }
+    }
+}

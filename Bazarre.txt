@@ -1,0 +1,9 @@
+JavaScript/
+https://smnarnold.com/cours/javascript
+https://www.delftstack.com/fr/
+https://www.training-dev.fr/Cours/Les-bases-du-javascript/Les-variables
+https://www.freecodecamp.org/news
+
+Css:
+https://www.zonecss.fr/faq/les-transitions-css.html
+http://fr.myebox.com/blog/transition-css

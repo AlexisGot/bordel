@@ -1,0 +1,101 @@
+-Page d'Accueil
+-Sommaire
+-Remerciment
+-Présentation de l'entreprise/objectif du site
+-Résumé du projet
+
+Présentation du projet (objectif du site):
+Le client faisant de la maintenance sur les consoles rétros de type Nintendo souhaite avoir plus de visibilité, pour cela, il souhaite créer un site web. 
+Je me suis porté volontaire pour effectuer ce site, après un entretien avec le client, il m'a accepté de me prendre en stage pour effectuer la création du site internet. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Objectif du projet/du site :
+Avant de commencer mon stage j'ai pu réflechir à poser quelques questions car on partait d'une idée assez brute (un site sur de maintenance et de modification de console rétro de Nintendo).
+Le premier jour du stage, les questions ont étaient posés et nous avons pu définir une liste des besoins du client. (screen document bleu top secret)
+Sur certains points, nous avons eu quelques désaccord (typographie et couleur)
+Après des échanges le client et moi-meme avons défini des accords sur les points précedemment evoqués.(donné des points de désaccord et les solutions donné)
+Pour les couleurs  il m'a notamment rappelés pour les couleurs, que ca devait rappeler les couleurs a la fois moderne et rétro.
+Ainsi, les accord trouvés nous avons défini que le site ferait x pages, qu'il respecterait l'arborescence, qu'il devrait comporter des catégories, qu'il devrait comporter un système d'édition/administration facile à prendre en mains sécurisé (WordPress).
+La cible était principalement des personnes aisées financièrement.
+Au niveau de la typographie le client souhaitait une écriture jeux vidéos rétro qui rappel celle des ancines jeux (av 2005) et autres impératifs.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Outils utilisé: Utiliter sur le projet
+
+Parler de GitHub : 
+    -GitHub c'est quoi ?
+    -Comment créer un repository et ce que c'est et à quoi ca sert ?
+    - Un repository c'est quoi ?
+    -Comment envoyer ce qu'on a en local sur notre repository ?
+
+Parler de Figma :
+    -Figma c'est quoi ? 
+    -Comment créer/commencer un Figma ?
+    -Système de composent ? c'est quoi ? l'utilité ?
+        pas pour l'instant -Montrer les maquettes réalisé (décrire)
+
+HTML (utilistaion dans notre projet(screen et expliquer le bout de code)):
+    -l'HTML est utile car c'est la base d'un site web et que tout les pages sont basé d'HTML
+    -Définir la structure d'une page web et inclure les contenues en respectant une sémantique  
+
+SASS (utilistaion dans notre projet(screen et expliquer le bout de code)):
+    -Pourquoi SASS et pas CSS ?
+    (Propretté du code, plus de posibilités que CSS (variable, etc..))
+
+WordPress (utilistaion dans notre projet(screen et expliquer le bout de code)):
+    -Wordpress c'est quoi ?
+    -Comment créer/commencer un WordPress ?
+    -Les bases de WordPress ?
+    -A quoi servent les extensions ?
+
+JavaScript (utilistaion dans notre projet(screen et expliquer le bout de code)):
+    -Ajout d'animation (défilement smooth, animation burger menu)
+    -
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conception :
+    -Récuperation des besoins client ( dossier bleu)
+    -En tant que / Product Backlog
+    -Maquette / Figma (couleur/ typographie/ Logo) : Un logiciel simple d'utilisation a developper
+    -Rechecher d'outils qui permet de mener à bien le projet dans le temps sans réinventer la roue.
+    -WordPress a developper mon choix 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Couleur
+Bleu signification : Loyauté apaissement confiance 
+Jaune signification : Joie, la Gaieté et la Fête (Cadeaux)
+Blanc signification : sagesse et simplicité
+Marron signification : stabilité
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+typographie 
+Retron 2000 : Pour rappeler les écritures des jeux vidéos 8-bits
+Roboto Mono : Permet d'avoir un texte lisible qui garde un aspect informatique (geek)
+
+Les liens cliquables posséde la même couleur pour 
+
+Au globale, les élements qui copose chaque pages on était normalisé :
+    -l'ensemble des élements cliquable posséde une couleur similaire ainsi qu'une forme bien particuliére (posséde un arrondi)
+    -les titres partage tous la même typographie (Retron 2000)
+    -Les formes qui compose le site sont globalement toute arrondi pour rappeler la douceur 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parler de la réalisation : 
+    -installation de WordPress
+    -Création d'un theme sur mesure
+    -Mise en place sur Laragon
+    -Liage d'une seule version de SASS/ Node.js sur le projet etc
+    - etc.
+    - Déploiment
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ parler des problématiques :
+    -manque de documentation wordpress (plugin en boucle)

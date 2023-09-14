@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+}
+  @font-face {
+    font-family: Josephine;
+    src: url("../../../src/font/Josephine.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Tomplank;
+    src: url("../../../src/font/Tomplank-Regular.otf") format("opentype");
+}
+
+header{
+    background-color: #B5DAC9;
+    p{
+        padding: 1rem;
+        font-family: Tomplank;
+        font-size: 2rem;
+    }
+    
+    nav{
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        max-width: 1325px;
+        
+        
+        ul{
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+            
+            li{
+                list-style: none;
+                
+                a{
+                    text-decoration: none;
+                    padding: 1rem;
+                    font-family: Josephine;
+                    font-size: 1.25rem;
+                    color: black;
+
+                    &:hover{
+                        text-decoration: underline;
+                    }
+            }
+        }
+    }
+}
+
+img{
+    width: 175px;
+    position: absolute;
+    top: 10px;
+    background: orange;
+    border-radius: 139px;
+    left: 44vw;
+}
+
+}
+main{
+    background-color: #B5DAC9;
+    height: 1440px;
+
+    .menuR{
+        background-color: white;
+        margin: auto;
+        max-width: 1440px;
+        border-radius: 60px;
+
+        #table{
+            border: black solid 2px;
+            margin: auto;
+        }
+        h1{
+            padding: 8rem 0 2rem 0;
+            text-align: center;
+            font-family: Josephine;
+            font-size: 4rem;
+        }
+        
+        .nomPlat{
+            text-align: center;
+        }
+        
+        
+        th{
+            padding: 2rem 0;
+        }
+        
+        .ajoutPlat{
+            text-align: center;
+            padding: 2rem;
+
+            a{
+                text-decoration: none;
+                color: black;
+                font-family: Josephine;
+                font-size: 2rem;
+
+                &:hover{
+                    text-decoration: underline;
+                }
+            }
+        }
+
+        .paddingBottom{
+            padding-bottom: 2rem;
+        }
+    }
+
+}
+
+footer{
+    background-color: #B5DAC9;
+}
+
+@media screen and(min-width: 1921px){
+
+    header{
+        img{
+            width: 175px;
+            position: absolute;
+            top: 10px;
+            background: orange;
+            border-radius: 139px;
+            left: 46vw;
+        }
+    }
+    
+}

@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<title>RetroMemories</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='stylesheet' id='contact-form-7-css' href='http://retromemories.test/wp-content/plugins/contact-form-7/includes/css/styles.css' media='all' />
+<link rel='stylesheet' id='retroMemoriesStyle-css' href='http://retromemories.test/wp-content/themes/retromemoriesbasetheme/public/webfiles/css/main.css' media='all' />
+<link rel="canonical" href="http://retromemories.test/" />
+<link rel="pingback" href="http://retromemories.test/xmlrpc.php"></head>
+
+<body class="home page-template-default page page-id-2 wp-custom-logo">
+<div id="page" class="site">
+	<header id="masthead" class="site-header">
+		<div class="site-branding">
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation">
+		<a href="http://retromemories.test/" class="custom-logo-link" rel="home" aria-current="page"><img width="63" height="63" src="http://retromemories.test/wp-content/uploads/2023/07/placeholder.svg" class="custom-logo" alt="RetroMemories" decoding="async" /></a>			<div class="menu-navbar-container"><ul id="primary-menu" class="menu"><li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-49"><a href="http://retromemories.test/" aria-current="page">Page d’Accueil</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://retromemories.test/modding-reparation/">Modding &#038; Reparation</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://retromemories.test/contact/">Contact</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+<main id="primary" class="site-main">
+	<div class="firstSection">
+		<img class="imgfirstSection" src="http://retromemories.test/wp-content/uploads/2023/07/placeholder.svg" alt="">
+		<div class="contentFirstSection">
+			<h1>Retro Memories !</h1>
+			<p>Retro memories est un site de fou malade.                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.                         Sed sodales, lacus sit amet dictum euismod, urna diam dictum orci, eget fermentum risus lectus vel nulla.                         Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.                         Nunc vitae venenatis nulla.</p>
+			<button class="button" type="submit">
+				<p class="paragButton">Découvrir</p>
+			</button>
+		</div>
+	</div>
+
+	<div id="contentWebSite">
+		<div class="secondSection">
+			<div class="firstPartSecondSection">
+				<h2>Titre H2 G (mon savoir faire)</h2>
+				<p class="blueColor">Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Sed sodales, lacus sit amet dictum euismod, urna diam dictum orci, eget fermentum risus lectus vel nulla.</p>
+			</div>
+			<div class="secondPartSecondSection">
+				<img class="imgSecondSection" src="http://retromemories.test/wp-content/uploads/2023/07/placeholder.svg" alt="">
+				<div class="contentSecondParag">
+					<div>
+						<h2 class="white">Game Boy Advance</h2>
+						<p class="white parag">Expliquer la nostalgie associée à la console. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales, lacus sit amet dictum euismod, urna diam dictum orci, eget fermentum risus lectus vel nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.Phasellus elementum dictum tortor, ut accumsan urna scelerisque.</p>
+					</div>
+					<button class="button" type="submit">
+						<p class="paragBouton">En savoir +</p>
+					</button>
+				</div>
+			</div>
+		</div>
+
+		<div class="thirdSection">
+			<h2 class="center">Titre H2 C (pourquoi succomber ?)</h2>
+			<section class="sectionCard">
+
+				<div class="card">
+					<div class="img">
+						<img class="imgRond" src="http://retromemories.test/wp-content/uploads/2023/07/ImgPersonnalible.png" alt="">
+					</div>
+					<div class="textCard">
+						<h3>Look Personnalisable</h3>
+						<p>De part notre large gamme de boitiers et de touches il est certain que vous trouverez une combinaison à votre image : UNIQUE & PERSONNALISABLE À L’INFINI.</p>
+					</div>
+				</div>
+
+				<div class="card">
+					<div class="img">
+						<img class="imgRond" src="http://retromemories.test/wp-content/uploads/2023/07/ImgEtoile.png" alt="">
+					</div>
+					<div class="textCard">
+						<h3>Expérience Améliorée</h3>
+						<p>En installant des composants modernes et robustes, vous êtes garanti d’une expérience de jeu améliorée conservant la réactivité d’origine.</p>
+					</div>
+				</div>
+
+				<div class="card">
+					<div class="img">
+						<img class="imgRond" src="http://retromemories.test/wp-content/uploads/2023/07/ImgDecouvrir.png" alt="">
+					</div>
+					<div class="textCard">
+						<h3>Découvrir / Redécouvrir</h3>
+						<p>Les jeux de votre enfance ainsi que les titres phares auxquels vous n’aviez pas accès sont à portée de mains. Des heures de KIFF en perspective !</p>
+					</div>
+				</div>
+
+				<div class="card">
+					<div class="img">
+						<img class="imgRond" src="http://retromemories.test/wp-content/uploads/2023/07/placeholder.svg" alt="">
+					</div>
+					<div class="textCard">
+						<h3>Item à trouver</h3>
+						<p>Phasellus elementum dictum tortor, ut accumsan urna scelerisque non. Etiam rhoncus tellus suscipit mi dignissim.  Titres phares, Jeux de votre enfance, Jeux étrangers, Homebrews, etc.</p>
+					</div>
+				</div>
+
+				<div class="card">
+					<div class="img">
+						<img class="imgRond" src="http://retromemories.test/wp-content/uploads/2023/07/ImgEcologie.png" alt="">
+					</div>
+					<div class="textCard">
+						<h3>Démarche Écologique  & Durable</h3>
+						<p>et Durable  accumsan urna scelerisque non. Etiam rhoncus tellus suscipit mi dignissim, non tempus justo dapibus. </p>
+					</div>
+				</div>
+
+				<div class="card">
+					<div class="img">
+						<img class="imgRond" src="http://retromemories.test/wp-content/uploads/2023/07/ImgCadeau.png" alt="">
+					</div>
+					<div class="textCard">
+						<h3>Le Plaisir d’Offrir</h3>
+						<p>Faites plaisir à l’un de vos proches en lui offrant la console dont il a toujours rêvé étant plus jeune.</p>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+</main><!-- #main -->
+
+	<footer id="colophon" class="site-footer">
+	<div>
+            <div class="left-part">
+                <div class="content">
+                        <h3>Coordonnées</h3>
+                        <div class="contactFooter">
+                            <p>
+                                <img src="./placeholder-1.png" alt="Illustration d'une enveloppe">
+                                <a href="" target="_blank" title="Envoyer un email à Retro Memories">contact@retrobanana.fr</a>
+                            </p>
+                        </div>
+                        <div class="contactFooter">
+                            <p>
+                                <img src="./placeholder-1.png" alt="Illustration d'un téléphone">
+                                <a href="" target="_blank" title="Téléphoner à Retro">06.40.99.45.91</a>
+                            </p>
+                        </div>
+                        <h3>Juridique</h3>
+                        <p><a href="" target="_blank" title="Redirection vers la page des Mentions légales">Mentions légales</a></p>
+                </div>
+                <div class="content">
+                    <h3>Horaires d'ouverture</h3>
+                       <div><p>Lundi : 9h00 - 19h00</p></div>
+                       <div><p>Mardi : 9h00 - 19h00</p></div>
+                       <div><p>Mercredi : Fermé</p></div>
+                       <div><p>Jeudi : 9h00 - 19h00</p></div>
+                       <div><p>Vendredi : 9h00 - 19h00</p></div>
+                </div>
+            </div>
+            <div class="right-part">
+                <div class="content">
+                        <a href="#" target="_blank"><img src="./placeholder-1.png" alt="Logo du site" id="logoEntreprise"></a>
+                        <div class="logoFooter">
+                            <a href="https://www.tiktok.com/fr/" target="_blank" title="Logo de redirection Tiktok"><img src="./placeholder-1.png"></a>
+                            <a href="https://www.instagram.com/" target="_blank" title="Logo de redirection Instagram"><img src="./placeholder-1.png"></a>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <p id="ligneCopyright">© 2023 <a href="" title="Redirection vers la page d'Accueil de Retro Memories">Retro Memories</a> - Tous droits réservés.</p>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src='http://retromemories.test/wp-content/plugins/contact-form-7/includes/swv/js/index.js' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"http:\/\/retromemories.test\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src='http://retromemories.test/wp-content/plugins/contact-form-7/includes/js/index.js' id='contact-form-7-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache de page à l’aide de disk: enhanced 
+
+Served from: retromemories.test @ 2023-07-13 16:18:32 by W3 Total Cache
+-->

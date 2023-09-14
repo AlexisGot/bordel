@@ -1,0 +1,88 @@
+@import "main.scss";
+
+main {
+    max-width: 1920px;
+    margin: auto;
+
+   #allCC{
+    margin: 0 2rem;
+
+    #formulaireContact {
+        display: flex;
+        max-width: 1920px;
+        margin-bottom: 5rem;
+    }
+
+    .blueTest {
+        background-color: $blue;
+        width: 70%;
+        height: 884px;
+        border-radius: $radius;
+    }
+
+    .informationContact {
+        margin-left: 2rem;
+        display: flex;
+        width: 30%;
+        flex-direction: column;
+        
+        .content{
+            margin: 1rem;
+            &:first-of-type{
+                padding-bottom: 1rem;
+            }
+        }
+        .contact {
+            display: flex;
+
+            img {
+                width: 28px;
+                height: 24px;
+                padding-right: 1rem;
+            }
+
+            a {
+                background-color: $yellow;
+                color: $brown;
+                border-radius: $radius;
+                padding: 0 1rem;
+                text-decoration: none;
+                display: block;
+                width: fit-content;
+                height: fit-content;
+            }
+        }
+    }
+   }
+}
+
+@media screen and (max-width: 1200px){
+
+    #allCC{
+        #formulaireContact{
+            flex-direction: column;
+    
+            .blueTest{
+                width: 100%;
+            }
+    
+            .informationContact{
+                display: flex;
+                flex-direction: row-reverse;
+                justify-content: flex-end;
+                width: 100%;
+                margin-left: 0;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px){
+    #allCC{
+        #formulaireContact{
+            .informationContact{
+                flex-direction: column-reverse;
+            }
+        }
+    }
+}
